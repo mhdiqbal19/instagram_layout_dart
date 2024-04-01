@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-![Uploading Screenshot_20240401_144030.png…]()
+![Screenshot_20240401_144030](https://github.com/mhdiqbal19/instagram_layout_dart/assets/43297852/f2160cfe-73e8-444c-b0e7-aecbadd9e001)
+
 
 
 ## Getting Started
